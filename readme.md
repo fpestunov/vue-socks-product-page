@@ -1,4 +1,4 @@
-#Intro to Vue
+# Intro to Vue
 Learn the fundamentals of Vue while we build socks product page.
 ![Vue Socks Page](vue-mastery-sock-store.gif)
 
